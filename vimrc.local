@@ -1,0 +1,5 @@
+syntax on
+set ruler
+set nu
+colorscheme desert
+set background=dark
